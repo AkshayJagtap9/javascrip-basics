@@ -13,8 +13,8 @@ for(let i = 0; i<=5; i++){
 // }
 
 // do-while loop
-let i = 0; 
+let number = 0; 
 do {
-    if(i % 2 !==0) console.log(i);
-    i++;
-}while (i <= 5);
+    if(number % 2 !==0) console.log(number);
+    number++;
+}while (number <= 5);

@@ -1,10 +1,10 @@
 // Ex .1
 
 let i = 0;
-while(i <= 10){
-    if(i === 5) break;
-    console.log(i);
-    i++;
+while(number <= 10){
+    if(number === 5) break;
+    console.log(number);
+    number++;
 }
 
 // 0
@@ -15,13 +15,13 @@ while(i <= 10){
 
 // Ex 2
 let i = 0;
-while(i <= 10){
-    if(i % 2 === 0){
-    i++;
+while(number <= 10){
+    if(number % 2 === 0){
+    number++;
     continue;
     }
-    console.log(i);
-    i++;
+    console.log(number);
+    number++;
 }
 
 // 1
