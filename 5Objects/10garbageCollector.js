@@ -1,0 +1,1 @@
+// there is no any concept like gc in javascript.
